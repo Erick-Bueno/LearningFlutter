@@ -1,3 +1,5 @@
+# Repositório criado com intuito de aprimorar os conhecimentos em flutter.
+
 # flutter_application_1
 
 A new Flutter project.
